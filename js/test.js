@@ -1,5 +1,10 @@
 var now = new Date();
-alert('test.js');
+
+
+
+(function() => {
+    alert('test.js');
+})();
 
 
 
