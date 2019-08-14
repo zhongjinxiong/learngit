@@ -1,0 +1,1 @@
+alet('test.js');
